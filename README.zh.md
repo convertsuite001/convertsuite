@@ -46,7 +46,7 @@ ConvertSuite 是一个专为开发者、内容创作者和办公用户设计的�
 - **[Excel转PDF](https://convertsuite.net/excel-to-pdf)** - 电子表格转PDF，保持格式完整
 - **[PPT转PDF](https://convertsuite.net/ppt-to-pdf)** - 演示文稿转换，支持批量处理
 - **[Markdown转Word](https://convertsuite.net/markdown-to-word)** - Markdown文档转Word格式
-- **[Markdown转PDF](https://convertsuite.net/markdown-to-pdf)** - 支持主题样式的PDF导出
+- **[Markdown转PDF](https://convertsuite.net/markdown-to-pdf)** - 支持主题样式的PDF导出 (另请参阅: [markdowntopdf.me](https://markdowntopdf.me/))
 
 ### 🖼️ 图像处理工具
 

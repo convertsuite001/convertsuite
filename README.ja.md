@@ -46,7 +46,7 @@ ConvertSuiteは、開発者、コンテンツクリエーター、オフィス�
 - **[Excel to PDF](https://convertsuite.net/excel-to-pdf)** - スプレッドシートからPDFへ、フォーマットを完全保持
 - **[PPT to PDF](https://convertsuite.net/ppt-to-pdf)** - プレゼンテーション変換、バッチ処理をサポート
 - **[Markdown to Word](https://convertsuite.net/markdown-to-word)** - MarkdownドキュメントをWord形式に変換
-- **[Markdown to PDF](https://convertsuite.net/markdown-to-pdf)** - テーマスタイル対応のPDFエクスポート
+- **[Markdown to PDF](https://convertsuite.net/markdown-to-pdf)** - テーマスタイル対応のPDFエクスポート (参照: [markdowntopdf.me](https://markdowntopdf.me/))
 
 ### 🖼️ 画像処理ツール
 

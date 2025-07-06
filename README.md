@@ -46,7 +46,7 @@ ConvertSuite is a comprehensive online tools platform designed for developers, c
 - **[Excel to PDF](https://convertsuite.net/excel-to-pdf)** - Convert spreadsheets to PDF with format preservation
 - **[PPT to PDF](https://convertsuite.net/ppt-to-pdf)** - Presentation conversion with batch processing support
 - **[Markdown to Word](https://convertsuite.net/markdown-to-word)** - Convert Markdown documents to Word format
-- **[Markdown to PDF](https://convertsuite.net/markdown-to-pdf)** - PDF export with theme style support
+- **[Markdown to PDF](https://convertsuite.net/markdown-to-pdf)** - PDF export with theme style support (see also: [markdowntopdf.me](https://markdowntopdf.me/))
 
 ### 🖼️ Image Processing Tools
 
